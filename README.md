@@ -22,7 +22,7 @@ pod 'iOSViews'
 
 ## Author
 
-bogdanmatasaru, bogdan.matasaru@emag.ro
+bogdanmatasaru, bogdan.matasaru@yahoo.com
 
 ## License
 
